@@ -34,7 +34,7 @@ string outcut(string output)
             break;
         case 2:
             output.replace(output.find("!!"), 2, "GAMMA");
-            i++;p
+            i++;
          
             break;
         case 3:
